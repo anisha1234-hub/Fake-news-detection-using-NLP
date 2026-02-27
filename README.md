@@ -105,7 +105,7 @@ This project successfully demonstrates the application of NLP and Machine Learni
 
 ## Author
 **Anisha Shaw**  
-B.Tech – Computer Science & Engineering  
+B.Tech – Computer Science & Business System  
 
 ---
 
